@@ -192,22 +192,26 @@ Here's an example results:
 
 
 * Heatmap:
+
 ![alt text][image6]
 
 
 
 * Thresholded heatmap:
+
 ![alt text][image7]
 
 
 
 * Labeled:
+
 ![alt text][image8]
 
 
 
 
 ### Here the resulting bounding boxes are drawn:
+
 ![alt text][image9]
 
 
