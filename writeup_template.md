@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 [image2]: ./writeup_imgs/car_noncar.png
 [image3]: ./writeup_imgs/hog.png
 [image4]: ./writeup_imgs/window_search.png
-[image5]: ./writeup_imgs/test_img.png
+[image5]: ./writeup_imgs/test_imgs.png
 [image6]: ./writeup_imgs/heatmap.png
 [image7]: ./writeup_imgs/thresholded.png
 [image8]: ./writeup_imgs/labeled.png
@@ -190,11 +190,16 @@ Here's an example results:
 
 ### Heatmaps:
 
+
 * Heatmap:
 ![alt text][image6]
 
+
+
 * Thresholded heatmap:
 ![alt text][image7]
+
+
 
 * Labeled:
 ![alt text][image8]
