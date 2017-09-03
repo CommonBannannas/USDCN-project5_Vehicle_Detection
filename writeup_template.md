@@ -207,7 +207,7 @@ Here's an example results:
 
 
 
-### Here the resulting bounding boxes are drawn onto the last frame in the series:
+### Here the resulting bounding boxes are drawn:
 ![alt text][image9]
 
 
