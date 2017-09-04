@@ -217,3 +217,27 @@ Here's an example results:
 
 
 ---
+### Discussion:
+
+* In this project, using a traditional method for detecting vehicles may not be the best approach. A convolutional neural network may work better in cases when the HOG features of new vehicles do not match those in the training set. Using a conv net can make the pipeline more robust to failures and may improve the detection accuracy.
+* Also the pipeline may fail with different lightning conditions (shadows, night, rain, etc.)
+* Finally, calculating the vehicle positions within the image and predicting where the vehicles will be in the next frames can also make the pipeline more robust.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
